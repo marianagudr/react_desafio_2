@@ -1,3 +1,9 @@
+.Body {
+  text-align: center;
+  background-color: #91e6cb;
+  padding: 50px;
+}
+
 .App {
   text-align: center;
 }
